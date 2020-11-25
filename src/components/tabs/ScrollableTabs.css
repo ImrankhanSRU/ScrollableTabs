@@ -90,4 +90,8 @@ h2 {
     .container {
         width: 90vw;
     }
+
+    .parent {
+        overflow-x: scroll;
+    }
 }
